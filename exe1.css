@@ -1,0 +1,35 @@
+.topo {
+    background-color: seagreen;
+    color: white;
+    height: 50px;
+    align-content: center;
+
+}
+
+.menu {
+    border: 2px solid black;
+    width: 200px;
+    float: left;
+    margin-right: 10px;
+    height: 200px;
+
+
+}
+
+.conteudo {
+    border: 2px solid black;
+    width: 400px;
+    float: left;
+    height: 400px;
+
+}
+
+div {
+    padding: 6px;
+
+}
+
+body {
+    border: 0px;
+
+}
